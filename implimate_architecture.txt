@@ -1,0 +1,32 @@
+
+🧠 The Agentic AI Tutor Architecture
+The process flows like a well-oiled learning machine:
+
+Input Agent: Gets the raw knowledge.
+
+Retrieval Agent: Finds the specific, relevant bits.
+
+Explanation Agent: Turns the dry facts into fun, understandable lessons.
+
+Evolution Agent: Makes sure the student actually learned and adjusts the plan.
+
+Step,Agent Name,Core Function,Why this order?
+1,Input Agent,       Document Processing & Chunking,           "First, we need to read and prepare the textbook! 
+                                                                This agent takes the student's PDF, converts it to text, 
+                                                                and breaks it down into small, searchable ""chunks"" 
+                                                                (paragraphs, sections) for the next agent."
+2,Retrieval Agent,   Context Gathering (RAG),                  "Next, we figure out what the student is asking about! 
+                                                                Based on the student's question, this agent searches 
+                                                                the chunks created in Step 1 to pull out the most relevant 
+                                                                few pieces of information (like a super-fast librarian)."
+3,Explanation Agent, "Pedagogy & Delivery (The ""Fun"" Part)", "Now, the teaching happens! This is the core tutor. 
+                                                                It takes the relevant facts from the Retrieval Agent and rewrites 
+                                                                them into an easy-to-understand, funny, and engaging answer, 
+                                                                perhaps using analogies, jokes, or even short stories."
+4,Evolution Agent,   "Assessment & Iteration                    "Finally, we check the results and get better! 
+                     (The ""Smart"" Part)",                     This agent assesses the student's comprehension 
+                                                                (e.g., through a quiz or follow-up questions). 
+                                                                It then updates the Explanation Agent's persona or 
+                                                                difficulty for the next question to ensure continuous, 
+                                                                personalized learning."
+                    
